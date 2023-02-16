@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="eCommerce">
+  <listeners>
+  	<listener class-name="common1.listener"/>
+  </listeners>
+  
+  <parameter name="url" value="amazon.com"/>
+  <parameter name="userid" value="joydeep"/>
+  <parameter name="password" value="*****"/>
+  
+  <test thread-count="5" name="Others">
+    <packages>
+    	<package name="others"></package>
+    </packages>
+  </test>
+  
+  <test thread-count="5" name="WebDriverAutomation">
+    <classes>
+      <class name="Suite.pomTest"/>
+      <class name="Suite.pofTest"/> 
+    </classes>
+  </test>
+  
+</suite> 

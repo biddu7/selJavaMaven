@@ -1,0 +1,56 @@
+19:18:21.754 [main] ERROR others.log4jTest - logging an error step
+19:18:21.759 [main] FATAL others.log4jTest - logging a fatal step
+19:18:21.769 [TestNG-method=test2-1] ERROR others.log4jTest - logging an error step
+19:18:21.769 [TestNG-method=test2-1] FATAL others.log4jTest - logging a fatal step
+19:18:31.672 [main] INFO  Suite.pomTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+19:18:32.861 [main] INFO  Suite.pomTest - logged in successfully with user [Joydeep Basu]
+19:18:39.844 [main] INFO  Suite.pomTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+19:18:41.052 [main] INFO  Suite.pomTest - logged in successfully with user [Nibedita Basu]
+19:18:41.150 [main] INFO  Suite.pomTest - logged out successfully
+19:18:42.844 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+19:18:44.056 [main] INFO  Suite.pofTest - logged in successfully with user [Joydeep Basu]
+19:18:44.160 [main] INFO  Suite.pofTest - logged out successfully
+19:18:45.856 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+19:18:47.065 [main] INFO  Suite.pofTest - logged in successfully with user [Nibedita Basu]
+19:18:47.162 [main] INFO  Suite.pofTest - logged out successfully
+19:18:48.816 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+19:18:50.030 [main] INFO  Suite.pofTest - logged in successfully with user [Paromita Goswami]
+19:18:50.116 [main] INFO  Suite.pofTest - logged out successfully
+14:59:25.708 [main] ERROR others.log4jTest - logging an error step
+14:59:25.712 [main] FATAL others.log4jTest - logging a fatal step
+14:59:25.720 [TestNG-method=test2-1] ERROR others.log4jTest - logging an error step
+14:59:25.720 [TestNG-method=test2-1] FATAL others.log4jTest - logging a fatal step
+14:59:37.230 [main] INFO  Suite.pomTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+14:59:38.438 [main] INFO  Suite.pomTest - logged in successfully with user [Joydeep Basu]
+14:59:38.536 [main] INFO  Suite.pomTest - logged out successfully
+14:59:40.162 [main] INFO  Suite.pomTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+14:59:41.375 [main] INFO  Suite.pomTest - logged in successfully with user [Nibedita Basu]
+14:59:41.469 [main] INFO  Suite.pomTest - logged out successfully
+14:59:43.166 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+14:59:44.371 [main] INFO  Suite.pofTest - logged in successfully with user [Joydeep Basu]
+14:59:44.459 [main] INFO  Suite.pofTest - logged out successfully
+14:59:46.150 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+14:59:47.342 [main] INFO  Suite.pofTest - logged in successfully with user [Nibedita Basu]
+14:59:47.437 [main] INFO  Suite.pofTest - logged out successfully
+14:59:49.090 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+14:59:50.300 [main] INFO  Suite.pofTest - logged in successfully with user [Paromita Goswami]
+14:59:50.387 [main] INFO  Suite.pofTest - logged out successfully
+16:48:02.858 [main] ERROR others.log4jTest - logging an error step
+16:48:02.861 [main] FATAL others.log4jTest - logging a fatal step
+16:48:02.870 [TestNG-method=test2-1] ERROR others.log4jTest - logging an error step
+16:48:02.871 [TestNG-method=test2-1] FATAL others.log4jTest - logging a fatal step
+16:48:12.003 [main] INFO  Suite.pomTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+16:48:13.217 [main] INFO  Suite.pomTest - logged in successfully with user [Joydeep Basu]
+16:48:13.312 [main] INFO  Suite.pomTest - logged out successfully
+16:48:14.990 [main] INFO  Suite.pomTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+16:48:16.180 [main] INFO  Suite.pomTest - logged in successfully with user [Nibedita Basu]
+16:48:16.279 [main] INFO  Suite.pomTest - logged out successfully
+16:48:18.158 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+16:48:19.360 [main] INFO  Suite.pofTest - logged in successfully with user [Joydeep Basu]
+16:48:19.447 [main] INFO  Suite.pofTest - logged out successfully
+16:48:21.170 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+16:48:22.376 [main] INFO  Suite.pofTest - logged in successfully with user [Nibedita Basu]
+16:48:22.463 [main] INFO  Suite.pofTest - logged out successfully
+16:48:24.204 [main] INFO  Suite.pofTest - Navigated to url [https://rahulshettyacademy.com/locatorspractice/]
+16:48:25.401 [main] INFO  Suite.pofTest - logged in successfully with user [Paromita Goswami]
+16:48:25.484 [main] INFO  Suite.pofTest - logged out successfully

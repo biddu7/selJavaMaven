@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN">
+ 
+  <Properties> 
+      <Property name="basePath">./logs</Property> 
+  </Properties>
+ 
+  <Appenders>
+	  <RollingFile name="file" fileName="${basePath}/audit.log" filePattern="${basePath}/audit_%d{dd-MMM-yyyy hh_mm_ss}.log">
+	          <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+	          <SizeBasedTriggeringPolicy size="5000" />
+	  </RollingFile>
+	  
+	    <Console name="Console" target="SYSTEM_OUT">
+	         <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+	    </Console>
+  </Appenders>
+ 
+ <!-- ====================================== -->
+ 
+  <Loggers>
+       <Logger name="Suite.pofTest" level="trace" additivity = "false"> <AppenderRef ref="file"/> </Logger>
+       <Logger name="Suite.pomTest" level="trace" additivity = "false"> <AppenderRef ref="file"/> </Logger>
+       <Root level="error"> <AppenderRef ref="file"/> </Root>
+  </Loggers>
+    
+</Configuration>
